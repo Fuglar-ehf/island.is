@@ -86,6 +86,7 @@ describe('Basic serialization', () => {
       DB_USER: 'api',
       DB_NAME: 'api',
       DB_HOST: 'a',
+      SSF_ON: '',
     })
   })
 
